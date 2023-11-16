@@ -1,0 +1,23 @@
+h1 span {
+  font-size: 45px;
+  background: rgba(83, 73, 182, 0.5);
+  border-radius: 40%;
+  padding: 15px;
+  color: #800080;
+}
+
+h2 span {
+  background: rgba(83, 73, 182, 0.5);
+  color: #800080;
+  font-size: 35px;
+}
+
+body {
+  background-image: url("https://i.imgur.com/lX7UJ9O.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#title {
+  text-align: center;
+}
